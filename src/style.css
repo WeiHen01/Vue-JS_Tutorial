@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.bg-gradient{
+    background-image: linear-gradient(to right, #0950C2, #C9438A);
+    /* Alternative: #4B19AC, #A2AAF5 */
+    /* Alternative: #5C70D3, #04C1F9 */
+    /* Alternative: #0950C2, #C9438A */
+    /* Alternative: #3A1272, #FF5F3F */
+}
+
+.fw-special{
+    font-family: 'Poppins', sans-serif;
+}
